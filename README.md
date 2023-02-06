@@ -10,3 +10,5 @@ Link: https://towardsdatascience.com/probability-sampling-with-python-8c977ad786
 ## **4. How to check Goodness of a created sample?**
 Link: https://medium.com/data-science-reporter/how-to-correctly-select-a-sample-from-a-huge-dataset-in-machine-learning-24327650372c
 ## **Step 3 - Complete the assignemnt on Sampling.**
+##**Dataset**
+Link: https://github.com/AnjulaMehto/Sampling_DataSet/blob/main/Creditcard_data.xlsx
