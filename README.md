@@ -9,4 +9,4 @@ Link: https://www.v7labs.com/blog/overfitting
 Link: https://towardsdatascience.com/probability-sampling-with-python-8c977ad78664
 # **4. How to check Goodness of a created sample?**
 Link: https://medium.com/data-science-reporter/how-to-correctly-select-a-sample-from-a-huge-dataset-in-machine-learning-24327650372c
-# **Step 3 - Complete the assignemnt on sampling.**
+# **Step 3 - Complete the assignemnt on Sampling.**
