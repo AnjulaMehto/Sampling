@@ -11,4 +11,4 @@
 ## **4. How to check Goodness of a created sample?**
 ### *<a href= "https://medium.com/data-science-reporter/how-to-correctly-select-a-sample-from-a-huge-dataset-in-machine-learning-24327650372c"> Click Here</a>*
 ## **Step 3 - Complete the assignemnt on Sampling.**
-### *<a href= "https://github.com/AnjulaMehto/Sampling_DataSet"> Click Here</a>*
+### *<a href= "https://github.com/AnjulaMehto/Sampling_Assignment"> Click Here</a>*
