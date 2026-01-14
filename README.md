@@ -1,4 +1,4 @@
-**SAMPLING**
+#**SAMPLING**
 
 **Step 1- Go through "Sampling PPT.pdf" to learn Sampling, its examples and its types, need of sampling, and Goodness of a sample.**
 ### *<a href= "https://docs.google.com/presentation/d/e/2PACX-1vShCVtfMfkO89a6PUcjyvLwf_gpFJW7Pr-QD8XlWaqMICcgP51MM4l5Zt0V032DlQ/pub?start=false&loop=false&delayms=60000"> Click Here</a> for ppt.*
